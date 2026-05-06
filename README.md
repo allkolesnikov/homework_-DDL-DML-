@@ -49,4 +49,4 @@ ORDER BY table_name;
 апрос выводит список таблиц базы данных sakila и соответствующие им первичные ключи.
 Для таблиц с составными первичными ключами отображаются несколько полей.
 
-![SQL](Images_sql/Tables base.png)
+![SQL](Images_sql/Tables_base.png)
