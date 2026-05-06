@@ -51,4 +51,7 @@ ORDER BY table_name;
 
 ![SQL](Images_sql/Tables_base.png)
 
+Файл exel
+!(Ключи.xlsx)
+
 
