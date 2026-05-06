@@ -50,3 +50,5 @@ ORDER BY table_name;
 Для таблиц с составными первичными ключами отображаются несколько полей.
 
 ![SQL](Images_sql/Tables_base.png)
+
+
